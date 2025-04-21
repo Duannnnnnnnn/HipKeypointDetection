@@ -1,0 +1,15 @@
+{
+  "experiment_name": "e1000_bs16_lr0.01_p50_efficientnetv2m",
+  "model_name": "efficientnetv2m",
+  "batch_size": 16,
+  "initial_lr": 0.01,
+  "epochs_requested": 1000,
+  "early_patience": 50,
+  "resolution": 224,
+  "avg_pixel_error": 24.507998480706547,
+  "epochs_trained": 1000,
+  "final_val_loss": 2.375060558319092,
+  "final_val_mae": 2.1249539852142334,
+  "final_val_mse": 8.813363075256348,
+  "best_val_loss": 2.1513218879699707
+}
